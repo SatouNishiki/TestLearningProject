@@ -21,6 +21,7 @@ namespace TestLearningProject.app
         /// </summary>
         private const int DiceSize = 50;
 
+
         /// <summary>
         /// PictureBoxのグラフィックハンドルを格納
         /// </summary>
